@@ -15,6 +15,6 @@ print(division)
 power=num1**num2
 print(power)
 floar_dev=num1//num2      #gives result in init
-print(floar_dev)=
+print(floar_dev)
 module=num1%num2
 print(module)

@@ -10,6 +10,6 @@ else:
         print ("ur grade is 'C'")
      elif m>34 and m<=75:
         print("ur grade is 'D'") 
-        
-             
+
+
 
